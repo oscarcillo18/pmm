@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context="com.example.oscpal.layout.MainActivity">
+
+    <TextView
+        android:id="@+id/LblSeleccion"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="ID opción seleccionada: (ninguna)" />
+    <RadioGroup
+        android:id="@+id/gruporb"
+        android:layout_width="fill_parent"
+        android:layout_height="150dp"
+        android:orientation="horizontal" >
+        <RadioButton
+            android:id="@+id/radio1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Opción 1"
+            android:orientation="horizontal"/>
+        <RadioButton
+            android:id="@+id/radio2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Opción 2"
+            android:orientation="horizontal"/>
+        <RadioButton
+            android:id="@+id/radio3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Opción 3"
+            android:orientation="horizontal"/>
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_weight="1"
+            android:text="Convertir"
+            tools:layout_editor_absoluteX="136dp"
+            tools:layout_editor_absoluteY="48dp" />
+    </RadioGroup>
+
+</LinearLayout>
