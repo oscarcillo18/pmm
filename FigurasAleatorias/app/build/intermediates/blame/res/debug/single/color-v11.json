@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/oscpal/.android/build-cache/e41efb4428b927b9271409f34f082abc3923e20f/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/oscpal/.android/build-cache/e41efb4428b927b9271409f34f082abc3923e20f/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Tue Nov 07 11:25:42 CET 2017
+base.0=/home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5
+renamed.0=classes.dex
+file.0=/home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex

@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml
+		INJECTED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml
+		INJECTED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml
+		INJECTED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:5:5-21:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/oscpal/.android/build-cache/e41efb4428b927b9271409f34f082abc3923e20f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/oscpal/.android/build-cache/2d01891a92359e4afae4654d01a72cb9641612b2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/oscpal/.android/build-cache/50b3ca3ac5b3195bf88d84a52dd825004bce7fff/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/oscpal/.android/build-cache/bd081dbef7be3f9d3c986a62d1f5d57578f855ee/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/oscpal/.android/build-cache/b57047169d4551d315c5f50b0be15773a0fb15bb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/oscpal/.android/build-cache/f27747d80799d59bfacf1ce2b0fc0ed2a0226439/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/oscpal/.android/build-cache/1ed508942e78a70de315e488625ab79d213bc61b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/oscpal/.android/build-cache/4eb42b2f13146031cdf7667de45188ba11e7cc23/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/oscpal/.android/build-cache/41be392a18ab86971a4e09b67741f7f629965f74/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/oscpal/.android/build-cache/00c2a6ee0f3dbeba7e93eeef6eafe54eefb5e715/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.oscpal.figurasaleatorias.DrawingExampleLauncher
+ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:12:19-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:16:27-74
+activity#com.example.oscpal.figurasaleatorias.DrawShapes1
+ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:19:9-48
+	android:name
+		ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:19:19-46
+activity#com.example.oscpal.figurasaleatorias.DrawShapes2
+ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:20:9-48
+	android:name
+		ADDED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml:20:19-46
+uses-sdk
+INJECTED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/oscpal/.android/build-cache/e41efb4428b927b9271409f34f082abc3923e20f/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/oscpal/.android/build-cache/2d01891a92359e4afae4654d01a72cb9641612b2/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/oscpal/.android/build-cache/50b3ca3ac5b3195bf88d84a52dd825004bce7fff/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/oscpal/.android/build-cache/bd081dbef7be3f9d3c986a62d1f5d57578f855ee/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/oscpal/.android/build-cache/b57047169d4551d315c5f50b0be15773a0fb15bb/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/oscpal/.android/build-cache/f27747d80799d59bfacf1ce2b0fc0ed2a0226439/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/oscpal/.android/build-cache/1ed508942e78a70de315e488625ab79d213bc61b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/oscpal/.android/build-cache/4eb42b2f13146031cdf7667de45188ba11e7cc23/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/oscpal/.android/build-cache/41be392a18ab86971a4e09b67741f7f629965f74/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/oscpal/.android/build-cache/00c2a6ee0f3dbeba7e93eeef6eafe54eefb5e715/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/oscpal/.android/build-cache/e41efb4428b927b9271409f34f082abc3923e20f/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml
+		INJECTED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml
+		INJECTED from /home/oscpal/AndroidStudioProjects/FigurasAleatorias/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/oscpal/.android/build-cache/e41efb4428b927b9271409f34f082abc3923e20f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/oscpal/.android/build-cache/2d01891a92359e4afae4654d01a72cb9641612b2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/oscpal/.android/build-cache/50b3ca3ac5b3195bf88d84a52dd825004bce7fff/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/oscpal/.android/build-cache/bd081dbef7be3f9d3c986a62d1f5d57578f855ee/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/oscpal/.android/build-cache/b57047169d4551d315c5f50b0be15773a0fb15bb/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/oscpal/.android/build-cache/f27747d80799d59bfacf1ce2b0fc0ed2a0226439/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/oscpal/.android/build-cache/1ed508942e78a70de315e488625ab79d213bc61b/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/oscpal/.android/build-cache/4eb42b2f13146031cdf7667de45188ba11e7cc23/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/oscpal/.android/build-cache/41be392a18ab86971a4e09b67741f7f629965f74/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/oscpal/.android/build-cache/e41efb4428b927b9271409f34f082abc3923e20f/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/oscpal/.android/build-cache/e41efb4428b927b9271409f34f082abc3923e20f/output/AndroidManifest.xml:26:9-47
